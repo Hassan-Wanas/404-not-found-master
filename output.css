@@ -725,3 +725,198 @@ video {
   --tw-text-opacity: 1;
   color: rgb(189 189 189 / var(--tw-text-opacity));
 }
+
+.text-Gray2 {
+  --tw-text-opacity: 1;
+  color: rgb(79 79 79 / var(--tw-text-opacity));
+}
+
+@media (min-width: 1024px) {
+  .lg\:top-\[\] {
+    top: ;
+  }
+
+  .lg\:top-\[40px\] {
+    top: 40px;
+  }
+
+  .lg\:left-\[\] {
+    left: ;
+  }
+
+  .lg\:left-\[77px\] {
+    left: 77px;
+  }
+
+  .lg\:top-\[265\] {
+    top: 265;
+  }
+
+  .lg\:top-\[265px\] {
+    top: 265px;
+  }
+
+  .lg\:left-\[77\] {
+    left: 77;
+  }
+
+  .lg\:top-\[26\] {
+    top: 26;
+  }
+
+  .lg\:left-\[735\] {
+    left: 735;
+  }
+
+  .lg\:left-\[735px\] {
+    left: 735px;
+  }
+
+  .lg\:top-\[48\] {
+    top: 48;
+  }
+
+  .lg\:top-\[4\] {
+    top: 4;
+  }
+
+  .lg\:top-\[491px\] {
+    top: 491px;
+  }
+
+  .lg\:left-\[736\] {
+    left: 736;
+  }
+
+  .lg\:left-\[736px\] {
+    left: 736px;
+  }
+
+  .lg\:top-\[663\] {
+    top: 663;
+  }
+
+  .lg\:top-\[663px\] {
+    top: 663px;
+  }
+
+  .lg\:left-\[740px\] {
+    left: 740px;
+  }
+
+  .lg\:top-\[1039\] {
+    top: 1039;
+  }
+
+  .lg\:top-\[1039px\] {
+    top: 1039px;
+  }
+
+  .lg\:left-\[577px\] {
+    left: 577px;
+  }
+
+  .lg\:h-\[\] {
+    height: ;
+  }
+
+  .lg\:h-\[1080\] {
+    height: 1080;
+  }
+
+  .lg\:h-\[1080px\] {
+    height: 1080px;
+  }
+
+  .lg\:h-\[44\] {
+    height: 44;
+  }
+
+  .lg\:h-\[447\.43\] {
+    height: 447.43;
+  }
+
+  .lg\:h-\[447\.43px\] {
+    height: 447.43px;
+  }
+
+  .lg\:h-\[190px\] {
+    height: 190px;
+  }
+
+  .lg\:h-\[1089\] {
+    height: 1089;
+  }
+
+  .lg\:h-\[108px\] {
+    height: 108px;
+  }
+
+  .lg\:w-\[\] {
+    width: ;
+  }
+
+  .lg\:w-\[1440px\] {
+    width: 1440px;
+  }
+
+  .lg\:w-\[5\.3\] {
+    width: 5.3;
+  }
+
+  .lg\:w-\[53\] {
+    width: 53;
+  }
+
+  .lg\:w-\[539\.\] {
+    width: 539.;
+  }
+
+  .lg\:w-\[539\.22px\] {
+    width: 539.22px;
+  }
+
+  .lg\:w-\[586px\] {
+    width: 586px;
+  }
+
+  .lg\:w-\[381px\] {
+    width: 381px;
+  }
+
+  .lg\:w-\[261\] {
+    width: 261;
+  }
+
+  .lg\:w-\[2\] {
+    width: 2;
+  }
+
+  .lg\:text-\[64px\] {
+    font-size: 64px;
+  }
+
+  .lg\:text-\[24px\] {
+    font-size: 24px;
+  }
+
+  .lg\:leading-\[\] {
+    line-height: ;
+  }
+
+  .lg\:leading-\[95\] {
+    line-height: 95;
+  }
+
+  .lg\:leading-\[95px\] {
+    line-height: 95px;
+  }
+
+  .lg\:leading-\[36px\] {
+    line-height: 36px;
+  }
+
+  .lg\:text-\[\] {
+    color: ;
+  }
+}
