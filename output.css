@@ -512,3 +512,216 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.left-\[23px\] {
+  left: 23px;
+}
+
+.left-\[24px\] {
+  left: 24px;
+}
+
+.left-\[44px\] {
+  left: 44px;
+}
+
+.left-\[46px\] {
+  left: 46px;
+}
+
+.top-\[109px\] {
+  top: 109px;
+}
+
+.top-\[20px\] {
+  top: 20px;
+}
+
+.top-\[407px\] {
+  top: 407px;
+}
+
+.top-\[579px\] {
+  top: 579px;
+}
+
+.top-\[726px\] {
+  top: 726px;
+}
+
+.top-\[908px\] {
+  top: 908px;
+}
+
+.m-auto {
+  margin: auto;
+}
+
+.h-\[142px\] {
+  height: 142px;
+}
+
+.h-\[17px\] {
+  height: 17px;
+}
+
+.h-\[238px\] {
+  height: 238px;
+}
+
+.h-\[25px\] {
+  height: 25px;
+}
+
+.h-\[68px\] {
+  height: 68px;
+}
+
+.h-\[81px\] {
+  height: 81px;
+}
+
+.h-\[949px\] {
+  height: 949px;
+}
+
+.w-\[133px\] {
+  width: 133px;
+}
+
+.w-\[216px\] {
+  width: 216px;
+}
+
+.w-\[286\.83px\] {
+  width: 286.83px;
+}
+
+.w-\[287px\] {
+  width: 287px;
+}
+
+.w-\[328px\] {
+  width: 328px;
+}
+
+.w-\[350px\] {
+  width: 350px;
+}
+
+.w-\[375px\] {
+  width: 375px;
+}
+
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
+.bg-Gray1 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(51 51 51 / var(--tw-bg-opacity));
+}
+
+.object-cover {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.font-Inconsolata {
+  font-family: Inconsolata;
+}
+
+.font-Montserrat {
+  font-family: Montserrat;
+}
+
+.font-SpaceMono {
+  font-family: Space Mono;
+}
+
+.text-\[14px\] {
+  font-size: 14px;
+}
+
+.text-\[18px\] {
+  font-size: 18px;
+}
+
+.text-\[24px\] {
+  font-size: 24px;
+}
+
+.text-\[48px\] {
+  font-size: 48px;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.font-normal {
+  font-weight: 400;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.not-italic {
+  font-style: normal;
+}
+
+.leading-\[17px\] {
+  line-height: 17px;
+}
+
+.leading-\[21px\] {
+  line-height: 21px;
+}
+
+.leading-\[25px\] {
+  line-height: 25px;
+}
+
+.leading-\[27px\] {
+  line-height: 27px;
+}
+
+.leading-\[71px\] {
+  line-height: 71px;
+}
+
+.tracking-\[-0\.035em\] {
+  letter-spacing: -0.035em;
+}
+
+.tracking-\[-0\.08em\] {
+  letter-spacing: -0.08em;
+}
+
+.text-Gray1 {
+  --tw-text-opacity: 1;
+  color: rgb(51 51 51 / var(--tw-text-opacity));
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.text-White1 {
+  --tw-text-opacity: 1;
+  color: rgb(189 189 189 / var(--tw-text-opacity));
+}

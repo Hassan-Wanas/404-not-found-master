@@ -6,13 +6,15 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        darkGray: '#333333',
-        lightGray: '#4f4f4f',
+        Gray1: '#333333',
+        Gray2: '#4f4f4f',
+        White1: '#BDBDBD'
       },
     },
     fontFamily: {
       Inconsolata: 'Inconsolata',
-      SpaceMono: 'Space Mono'
+      SpaceMono: 'Space Mono',
+      Montserrat: 'Montserrat',
     }
   },
   plugins: [],
